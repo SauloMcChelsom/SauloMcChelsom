@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=saulomcchelsom&color=blue)
 
-- 👨🏻‍💻 &nbsp; I'm currently working on <a href="https://www.olissy.com/" target="_blank">CEBIM</a> <code>Olissy</code>
+- 👨🏻‍💻 &nbsp; I'm currently working on <a href="https://www.olissy.com/" target="_blank">Olissy</a> <code>App para farmacias</code>
 - 🌱 &nbsp; I’m currently coding in <a href="https://flutter.dev/" target="_blank">Flutter</a>.
 - 📲 &nbsp; I'm looking for Flutter challenges to update my portfolio.
 - 📫 &nbsp; How to reach me: <a href="mailto:2033.xyz@gmail.com">2033.xyz@gmail.com</a>
