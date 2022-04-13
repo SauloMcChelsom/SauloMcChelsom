@@ -16,7 +16,7 @@ Redux, Ngxs)
 - CSS Patterns (BEM, SMACSS...)
 - Solid knowledge in ES6+
 - Linters (Prettier, TSLint/ESlint)
-- unit test  and/or CI/CD integration
+- Integration test or unit test
 - RESTful APIs
 - Notion in relational database (PostgreSQL)
 - Notion of Cloud Computing (Heroku and AWS)
