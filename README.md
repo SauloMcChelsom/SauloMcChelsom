@@ -6,8 +6,7 @@
 
 - Versioning with git
 - HTML/CSS/Javascript/TypeScript
-- Front-end Framework Angular2+ (Material, RxJS, Boodstrap,
-Redux, Ngxs)
+- Front-end Framework Angular2+ (Material, RxJS, Boodstrap)
 - Backend Framework NestJS
 - CSS preprocessors (SASS)
 - CSS Patterns (BEM, SMACSS...)
